@@ -1,0 +1,3 @@
+[submodule "gina-map-layers"]
+	path = gina-map-layers
+	url = https://github.com/gina-alaska/gina-map-layers.git
